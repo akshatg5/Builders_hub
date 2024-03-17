@@ -1,7 +1,7 @@
 ## Welcome to the Builders Hub Repo
 - Find projects built by us ranging from 
- - frontend 
- - backend 
+ - Frontend 
+ - Backend 
  - Fullstack
 
 ## Projects 
